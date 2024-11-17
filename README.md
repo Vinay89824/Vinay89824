@@ -1,15 +1,18 @@
 - 👋 Welcome to My GitHub!
 Hi, I'm Vinay Marella, a passionate Master of Science in Computer Science student at Northwest Missouri State University, graduating in December 2024. With a strong foundation in software development, data engineering, and data science, I enjoy building innovative solutions that solve real-world problems.
+
 🚀 Technical Skills
     Languages: Python, Java, JavaScript, R, C++, MatLab
     Frameworks & Libraries: React.js, Node.js, Flask, Spring Modules
     Tools & Technologies: MongoDB Atlas, Power BI, Tess4J, Adobe Creative Suite
     Specializations: Data Structures, Algorithms, Big Data, Object-Oriented Programming
+    
 🔬 Interests
     Data Science & Engineering
     Web Development
     Game Development (Currently learning Godot Engine)
     Blockchain Technology
+    
 🌟 Highlight Projects
     Python-Based Self-Sanitizer Protocol
         Developed a system to ensure hygiene automation using Python.
