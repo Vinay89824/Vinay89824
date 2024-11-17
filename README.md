@@ -1,4 +1,5 @@
 - 👋 Welcome to My GitHub!
+- 
 Hi, I'm Vinay Marella, a passionate Master of Science in Computer Science student at Northwest Missouri State University, graduating in December 2024. With a strong foundation in software development, data engineering, and data science, I enjoy building innovative solutions that solve real-world problems.
 
 🚀 Technical Skills
